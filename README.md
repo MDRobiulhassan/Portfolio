@@ -1,8 +1,8 @@
 # Robiul Hassan - Portfolio Website 🌐
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://mdrobiulhassan.github.io/portfolio)
-[![Vercel](https://img.shields.io/badge/Vercel-Deployed-blue)](https://portfolio-robiulhassan.vercel.app)
-[![Netlify](https://img.shields.io/badge/Netlify-Live-green)](https://robiulhassan.netlify.app)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://mdrobiulhassan.github.io/Portfolio/)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-blue)]()
+[![Netlify](https://img.shields.io/badge/Netlify-Live-green)]()
 
 A responsive personal portfolio website showcasing my projects, skills, and contact information as a Computer Science student and developer.
 
@@ -29,6 +29,6 @@ A responsive personal portfolio website showcasing my projects, skills, and cont
 
 ## 🚀 Live Demos
 
-- **GitHub Pages**: [https://mdrobiulhassan.github.io/portfolio](https://mdrobiulhassan.github.io/portfolio)
-- **Vercel**: [https://portfolio-robiulhassan.vercel.app](https://portfolio-robiulhassan.vercel.app)
-- **Netlify**: [https://robiulhassan.netlify.app](https://robiulhassan.netlify.app)
+- **GitHub Pages**: [https://mdrobiulhassan.github.io/portfolio[](https://mdrobiulhassan.github.io/portfolio](https://mdrobiulhassan.github.io/Portfolio/))
+- **Vercel**: [https://portfolio-robiulhassan.vercel.app]()
+- **Netlify**: [https://robiulhassan.netlify.app]()
