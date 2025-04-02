@@ -1,8 +1,8 @@
 # Robiul Hassan - Portfolio Website 🌐
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://mdrobiulhassan.github.io/Portfolio/)
-[![Vercel](https://img.shields.io/badge/Vercel-Deployed-blue)]()
-[![Netlify](https://img.shields.io/badge/Netlify-Live-green)]()
+[![Vercel](https://img.shields.io/badge/Vercel-Not%20Deployed-red)]()
+[![Netlify](https://img.shields.io/badge/Netlify-Not%20Deployed-red)]()
 
 A responsive personal portfolio website showcasing my projects, skills, and contact information as a Computer Science student and developer.
 
@@ -23,12 +23,16 @@ A responsive personal portfolio website showcasing my projects, skills, and cont
 - jQuery (DOM manipulation)
 
 **Deployment:**
-- GitHub Pages
-- Vercel
-- Netlify
+- GitHub Pages ✅ (Live)
+- Vercel ❌ (Not Deployed)
+- Netlify ❌ (Not Deployed)
 
 ## 🚀 Live Demos
 
-- **GitHub Pages**: https://mdrobiulhassan.github.io/Portfolio/
-- **Vercel**: [https://portfolio-robiulhassan.vercel.app]()
-- **Netlify**: [https://robiulhassan.netlify.app]()
+- **GitHub Pages**: [https://mdrobiulhassan.github.io/Portfolio/](https://mdrobiulhassan.github.io/Portfolio/)
+- **Vercel & Netlify**: **Not yet deployed** 🚀
+
+## 📝 TODO
+- Deploy on **Vercel** and **Netlify**
+- Improve animations and responsiveness
+- Add a dark mode toggle
