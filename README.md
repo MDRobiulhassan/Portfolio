@@ -34,6 +34,6 @@ A responsive personal portfolio website showcasing my projects, skills,coding pr
 - **Netlify**: https://robiul-hassan.netlify.app/
 
 ## 📝 TODO
-- Deploy on **Vercel** and **Netlify**
+- Deploy on **Vercel** 
 - Improve animations and responsiveness
 - Add a dark mode toggle
