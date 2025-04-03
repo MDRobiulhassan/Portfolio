@@ -4,7 +4,7 @@
 [![Vercel](https://img.shields.io/badge/Vercel-Not%20Deployed-red)]()
 [![Netlify](https://img.shields.io/badge/Netlify-Not%20Deployed-red)]()
 
-A responsive personal portfolio website showcasing my projects, skills, and contact information as a Computer Science student and developer.
+A responsive personal portfolio website showcasing my projects, skills,coding profiles,certifications,resume and contact information as a Computer Science student and developer.
 
 ## 🔥 Features
 
