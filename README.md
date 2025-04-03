@@ -30,8 +30,8 @@ A responsive personal portfolio website showcasing my projects, skills,coding pr
 ## 🚀 Live Demos
 
 - **GitHub Pages**: [https://mdrobiulhassan.github.io/Portfolio/](https://mdrobiulhassan.github.io/Portfolio/)
-- **Vercel**: https://robiul-hassan.netlify.app/
-- **Netlify**: **Not yet deployed** 🚀
+- **Vercel**: **Not yet deployed** 🚀
+- **Netlify**: https://robiul-hassan.netlify.app/
 
 ## 📝 TODO
 - Deploy on **Vercel** and **Netlify**
