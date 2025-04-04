@@ -25,7 +25,7 @@ A responsive personal portfolio website showcasing my projects, skills,coding pr
 **Deployment:**
 - GitHub Pages ✅ (Live)
 - Vercel ❌ (Not Deployed)
-- Netlify ❌ (Not Deployed)
+- Netlify ✅ (Live)
 
 ## 🚀 Live Demos
 
