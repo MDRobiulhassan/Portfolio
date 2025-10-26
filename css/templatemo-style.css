@@ -400,6 +400,11 @@ http://www.templatemo.com/tm-509-Robiul Hassan
     padding-bottom: 50px;
   }
 
+  /* Reduce space below the About Me heading */
+  #about .section-title {
+    margin-bottom: 20px;
+  }
+
   #about .about-info:first-child {
     margin-right: 40px;
   }
@@ -1441,4 +1446,29 @@ http://www.templatemo.com/tm-509-Robiul Hassan
       bottom: 6em;
     }
     
+  }
+
+  /* Position Card Styling - Custom styles for Backend Engineer section */
+  .position-card-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+  }
+
+  .position-card {
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    padding: 30px;
+    border-radius: 10px;
+    border-left: 4px solid #007bff;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+    width: 100%;
+    max-width: 500px;
+    text-align: center;
+  }
+
+  /* Colorize LofiStack with specific color */
+  .position-card .about-company-name {
+    color: #2B1D90;
+    font-weight: 700;
   }
