@@ -22,18 +22,6 @@ A responsive personal portfolio website showcasing my projects, skills,coding pr
 - Font Awesome (Icons)
 - jQuery (DOM manipulation)
 
-**Deployment:**
-- GitHub Pages ✅ (Live)
-- Vercel ❌ (Not Deployed)
-- Netlify ✅ (Live)
-
-## 🚀 Live Demos
-
+**Deployment and Live Demo**
 - **GitHub Pages**: [https://mdrobiulhassan.github.io/Portfolio/](https://mdrobiulhassan.github.io/Portfolio/)
-- **Vercel**: **Not yet deployed** 🚀
-- **Netlify**: https://robiul-hassan.netlify.app/
 
-## 📝 TODO
-- Deploy on **Vercel** 
-- Improve animations and responsiveness
-- Add a dark mode toggle
