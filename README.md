@@ -1,8 +1,6 @@
-# Robiul Hassan - Portfolio Website 🌐
+# Robiul Hassan - Portfolio Website 
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://mdrobiulhassan.github.io/Portfolio/)
-[![Vercel](https://img.shields.io/badge/Vercel-Not%20Deployed-red)]()
-[![Netlify](https://img.shields.io/badge/Netlify-%20Deployed-green)](https://robiul-hassan.netlify.app/)
 
 A responsive personal portfolio website showcasing my projects, skills,coding profiles,certifications,resume and contact information as a Computer Science student and developer.
 
@@ -11,8 +9,9 @@ A responsive personal portfolio website showcasing my projects, skills,coding pr
 - **Modern UI**: Clean, responsive design with smooth animations
 - **Project Showcase**: Highlighting my best work with direct GitHub links
 - **Skills Visualization**: Interactive progress bars for technical skills
+- **Certifications**: Showcase of earned certifications with links and verification
 - **Contact Form**: Easy way to get in touch
-- **Multi-platform Deployment**: Available on GitHub Pages, Vercel, and Netlify
+- **Deployment**: Available on GitHub Pages
 
 ## 🛠 Technologies Used
 
@@ -22,18 +21,9 @@ A responsive personal portfolio website showcasing my projects, skills,coding pr
 - Font Awesome (Icons)
 - jQuery (DOM manipulation)
 
-**Deployment:**
-- GitHub Pages ✅ (Live)
-- Vercel ❌ (Not Deployed)
-- Netlify ✅ (Live)
 
-## 🚀 Live Demos
+## 🚀 Live Demo
 
 - **GitHub Pages**: [https://mdrobiulhassan.github.io/Portfolio/](https://mdrobiulhassan.github.io/Portfolio/)
-- **Vercel**: **Not yet deployed** 🚀
-- **Netlify**: https://robiul-hassan.netlify.app/
 
-## 📝 TODO
-- Deploy on **Vercel** 
-- Improve animations and responsiveness
-- Add a dark mode toggle
+
